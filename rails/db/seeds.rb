@@ -5,3 +5,9 @@
 #
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
+
+Channel.create(name: 'Mechanical')
+Channel.create(name: 'Power')
+Channel.create(name: 'Basement')
+Channel.create(name: 'Lighting')
+Channel.create(name: 'Kitchen')
