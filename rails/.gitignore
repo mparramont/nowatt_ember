@@ -11,3 +11,7 @@
 /log/*
 !/log/.keep
 /tmp
+
+# Ignore sqlite dbs
+nowatt_ember_development
+nowatt_ember_test
